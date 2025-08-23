@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cleteco India — Energy Intelligence for Industry</title>
+  <meta name="description" content="Cleteco India helps manufacturers and clusters optimize energy costs, manage risk, and stay CBAM/ESG-ready with AI-powered analytics." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="wrap navbar">
+      <div class="brand"><a href="index.html">⚡ Cleteco India</a></div>
+      <nav class="nav">
+        <a href="mission.html">Mission</a>
+        <a href="why-india.html">Why India</a>
+        <a href="technology.html">Technology</a>
+        <a href="platform.html">Platform</a>
+        <a href="sectors.html">Sectors</a>
+        <a href="impact.html">Impact</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="getting-started.html">Start</a>
+        <a href="contact.html" class="cta">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="wrap">
+    <!-- Hero -->
+    <section class="grid2" style="align-items:center">
+      <div>
+        <h1>Energy Intelligence for Indian Industry</h1>
+        <p class="lead">AI‑powered optimization, risk management, and CBAM‑ready compliance — built for Indian manufacturers and industrial clusters.</p>
+        <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
+          <a class="btn primary" href="getting-started.html">Book discovery call</a>
+          <a class="btn" href="platform.html">Explore platform</a>
+        </div>
+        <p class="muted" style="margin-top:10px">
+          Early access • Pilot cohorts for clusters (textiles, steel, cement, chemicals, auto)
+        </p>
+      </div>
+
+      <!-- Simple KPI panel (static mock for now) -->
+      <div class="panel">
+        <div class="kpi">
+          <div class="card">
+            <div class="muted">Volatility</div>
+            <div style="font-size:22px;font-weight:700">↓ 67%</div>
+            <div class="muted">avg reduction*</div>
+          </div>
+          <div class="card">
+            <div class="muted">Forecast Horizon</div>
+            <div style="font-size:22px;font-weight:700">96 blocks</div>
+            <div class="muted">multi‑step</div>
+          </div>
+          <div class="card">
+            <div class="muted">CBAM‑ready</div>
+            <div style="font-size:22px;font-weight:700">Yes</div>
+            <div class="muted">tracking & reports</div>
+          </div>
+          <div class="card">
+            <div class="muted">Open Access</div>
+            <div style="font-size:22px;font-weight:700">Scale</div>
+            <div class="muted">renewables</div>
+          </div>
+        </div>
+        <p class="muted" style="margin-top:8px;font-size:12px">*Illustrative; improvements vary by site and strategy.</p>
+      </div>
+    </section>
+
+    <!-- What we offer (3 quick cards) -->
+    <section class="panel">
+      <h2>Built for Indian manufacturers</h2>
+      <div class="grid3">
+        <div class="card">
+          <h3>AI‑Powered Optimization</h3>
+          <p class="muted">Modern algorithms to balance cost, risk, and sustainability across your energy portfolio.</p>
+        </div>
+        <div class="card">
+          <h3>Real‑time Risk</h3>
+          <p class="muted">Dynamic hedging, scenario tests, and monitoring to handle volatility with confidence.</p>
+        </div>
+        <div class="card">
+          <h3>CBAM & ESG‑Ready</h3>
+          <p class="muted">Automated data, tracking, and export‑ready reporting for evolving EU requirements.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Vision teaser -->
+    <section class="panel">
+      <h2>Vision 2030</h2>
+      <p class="muted">Optimize industrial energy spend at scale and enable meaningful CO₂ reductions across India’s manufacturing economy.</p>
+      <a class="btn" href="mission.html" style="margin-top:8px;display:inline-block">Read our mission</a>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 Cleteco India • <span class="badge">Early‑stage — building in public</span>
+  </footer>
+</body>
+</html>
